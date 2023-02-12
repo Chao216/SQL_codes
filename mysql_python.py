@@ -18,3 +18,5 @@ print(values)
 
 cursor.close()
 cnx.close()
+
+# this could be a template
